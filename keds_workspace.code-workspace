@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "programming_fundamentals"
+		},
+		{
+			"name": "the_browser",
+			"path": "the_browser"
+		},
+		{
+			"name": "javascripting",
+			"path": "javascripting"
+		},
+		{
+			"name": "Katas",
+			"path": "Katas"
+		},
+		{
+			"name": "lighthouse-web-notes",
+			"path": "lighthouse-web-notes"
+		},
+		{
+			"name": "lotide",
+			"path": "lotide"
+		}
+	],
+	"settings": {}
+}
