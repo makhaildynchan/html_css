@@ -1,0 +1,49 @@
+sample
+node
+
+****Simple expressions***
+"Hello, world!";
+false;
+7 + 6;
+
+***Creating Variables***
+let name = "Suzie";
+"Hello, " + name;
+
+"My friend " + name + " is a programmer.";
+
+***Updating Variables***
+name = "Sam";
+"Hello, " + name;
+
+let city = "Vancouver";
+let yearIncorporated = 1886;
+let currentYear = 2015;
+let age = currentYear - yearIncorporated;
+city + " is " + age + " years old.";
+
+***Arithmetic Operators***
+let ten = 10;
+ten + 3;
+ten * 3;
+ten / 3;
+ten % 3;
+
+***Comparison Operators***
+15 > 12;
+6 <= 2;
+7 === 7;
+"five" !== "five";
+"five" > "three";
+
+***Mixing Numbers and Strings***
+9 + "3";
+9 + "three";
+4 * "5";
+4 + "5";
+"four" / 5;
+Number("9") + 3;
+
+***Not a Number (NaN)***
+"Hello, world" * 5;
+Number("Hello, world");
